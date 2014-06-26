@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>each-async</artifactId>
-    <version>0.1.3</version>
+    <version>0.1.4-SNAPSHOT</version>
     <name>each-async</name>
     <description>WebJar for each-async</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/each-async</url>
         <connection>scm:git:https://github.com/webjars/each-async.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/each-async.git</developerConnection>
-        <tag>each-async-0.1.3</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
